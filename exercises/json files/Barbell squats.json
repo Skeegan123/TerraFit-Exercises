@@ -1,0 +1,79 @@
+{
+    "name": "Barbell Squats",
+    "description": "The barbell squat is a fundamental strength training exercise that targets multiple muscle groups, including the quadriceps, hamstrings, glutes, and lower back. This full-body workout provides numerous benefits, such as increased power, endurance, and stability.",
+    "muscleGroup": [
+        "Quadriceps",
+        "Hamstrings"
+	"Glutes"
+    ],
+    "equipment": [
+        "Barbell",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Keep Your Back Straight: Maintaining a straight back throughout the exercise helps to prevent injury and engages your lower back muscles.",
+        "Don’t Let Your Knees Cave Inward: Keep your knees tracking over your toes and avoid letting them cave inward."
+    ],
+    "images": [
+        "Squat-I0-1",
+        "Squat-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "advanced",
+    "type": "Free weights",
+    "notes": "example notes",
+    "alternatives": [
+        "Dumbell Goblet Squat",
+        "Body Weight Squat"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand with your feet shoulder-width apart. Maintain the natural arch in your back, squeezing your shoulder blades and raising your chest.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Grip the bar across your shoulders and support it on your upper back. Unrack the bar by straightening your legs, and take a step back.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Bend your knees as you lower the weight without altering the form of your back until your hips are below your knees.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+  {
+            "instruction": "Raise the bar back to starting position, lift with your legs and exhale at the top.",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

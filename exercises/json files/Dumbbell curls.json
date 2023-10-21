@@ -1,0 +1,68 @@
+{
+    "name": "Dumbbell curl",
+    "description": "A dumbbell curl is an exercise that targets the biceps muscles on the front of your arms. ",
+    "muscleGroup": [
+        "Biceps",
+        
+    ],
+    "equipment": [
+        "Dumbbell",
+        
+    ],
+    "tips": [
+        "Keep your upper arms stationary",
+        "Keep your bicep tense."
+    ],
+    "images": [
+        "Dumbbellcurl-I0-1",
+        "Dumbbellcurl-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Free weights",
+    "notes": "example notes",
+    "alternatives": [
+        "Barbell Curl",
+        "example alternative 2"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand up straight with a dumbbell in each hand at arm's length.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Raise one dumbbell and twist your forearm until it is vertical and your palm faces the shoulder.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Lower to original position and repeat with opposite arm",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

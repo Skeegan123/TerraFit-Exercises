@@ -1,0 +1,69 @@
+{
+    "name": "Forearm plank",
+    "description": "A plank is an exercise that involves holding your body in a straight, in-line position.",
+    "muscleGroup": [
+        "Pectorals",
+        "Abdominals"
+    ],
+    "equipment": [
+        "None",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Be careful to not let your hips rise or sag as you were holding the forearm Plank. Maintain a flat back the entire set. If you are having trouble knowing if your back is flat, try performing the exercise in front of a mirror so you can check your form. ",
+        "example tip 2"
+    ],
+    "images": [
+        "Forearmplank-I0-1",
+        "Forearmplank-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Body weight",
+    "notes": "You can either do a closed fist or open hand position. Whichever feels more comfortable. Step one foot back, and then the other to begin the Plank.",
+    "alternatives": [
+        "Hand plank",
+        "Hand side plank"
+    ],
+    "instructions": [
+        {
+            "instruction": "1
+Place forearms on the ground with your elbows bent at a 90° angle aligned beneath your shoulders, with your arms parallel at shoulder-width.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Your feet should be together, with only your toes touching the floor.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Lift your belly off the floor and form a straight line from your heels to the crown of your head and hold.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

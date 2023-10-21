@@ -1,0 +1,68 @@
+{
+    "name": "Dumbbell Romanian Deadlift",
+    "description": "A dumbbell Romanian deadlift (RDL) is an exercise that increases hamstring strength. It works the core and lower body at the same time.",
+    "muscleGroup": [
+        "Glutes",
+        "Back"
+    ],
+    "equipment": [
+        "Dumbbells",
+        
+    ],
+    "tips": [
+        "Don't reach with your shoulders or hands.",
+        "Pull your shoulders back to contract your lats and stabilize your core."
+    ],
+    "images": [
+        "Dumbbellromanian-I0-1.gif",
+        
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "Freeweights",
+    "notes": "example notes",
+    "alternatives": [
+        "Barbell hip thrust",
+        "Block deadlift"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand with a shoulder width stance. Push your butt back while leaving your knees MOSTLY extended.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "You should feel a stretch in your hamstrings. When you feel the stretch, push your hips forward to complete the rep.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Do not push your hips all the way forward. This will hyperextend your spine. Just go to a normal standing position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Chin ups",
+    "description": "Chin Up is an exercise in which one hangs by the hands from a support (such as a horizontal bar) and pulls oneself up until the chin is level with the support.",
+    "muscleGroup": [
+        "Biceps",
+        "Triceps"
+    ],
+    "equipment": [
+        "Chin up bar",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Grab the Chin Up bar with an underhand grip. Make sure the bars are set very deeply in your hand.",
+        
+    ],
+    "images": [
+        "Chinups-I0-1",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "body weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Assisted pull-ups",
+        
+    ],
+    "instructions": [
+        {
+            "instruction": "Grab the bar shoulder width apart with a supinated grip (palms facing you)",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "With your body hanging and arms fully extended, pull yourself up until your chin is past the bar.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Slowly return to starting position. Repeat.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

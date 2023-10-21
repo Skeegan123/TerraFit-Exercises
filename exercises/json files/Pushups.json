@@ -1,0 +1,68 @@
+{
+    "name": "Push ups",
+    "description": "A push-up is a conditioning exercise that involves lying on your stomach and raising and lowering your body by straightening and bending your arms. ",
+    "muscleGroup": [
+        "Pectoral",
+        
+    ],
+    "equipment": [
+        "None",
+        "example equipment 2"
+    ],
+    "tips": [
+        "example tip 1",
+        "example tip 2"
+    ],
+    "images": [
+        "Pushups-I0-1.gif",
+        "Puhsups-I0-2.gif"
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Body Weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Diamond push ups",
+        "Incline push ups"
+    ],
+    "instructions": [
+        {
+            "instruction": "Place your hands firmly on the ground, directly under shoulders.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "Flatten your back so your entire body is straight and slowly lower your body",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Draw shoulder blades back and down, keeping elbows tucked close to your body",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Exhale as you push back to the starting position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Barbell bent over row",
+    "description": "The barbell bent-over row is a compound exercise that works muscles in the upper and lower body. It's also known as the barbell row. 
+",
+    "muscleGroup": [
+        "Lats",
+        "Traps"
+    ],
+    "equipment": [
+        "Barbell",
+       
+    ],
+    "tips": [
+        "Pull your elbows straight back toward the ceiling until the bar touches your torso.",
+        "The bar should land somewhere between your belly button and your rib cage."
+    ],
+    "images": [
+        "Barbellbentoverrow-I0-1.gif",
+        "Barbellbentoverrow-I0-2.gif"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "Free weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Cable bent over row",
+      
+    ],
+    "instructions": [
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

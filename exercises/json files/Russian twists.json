@@ -1,0 +1,68 @@
+{
+    "name": "Dumbbell Russian twist",
+    "description": "A Russian twist is a core exercise that works your abdominal muscles, especially your transverse abdominis and your internal and external obliques.",
+    "muscleGroup": [
+        "Abdominals",
+        "External obliques"
+    ],
+    "equipment": [
+        "Dumbbbel;",
+        
+    ],
+    "tips": [
+        "Keep your back straight at all times",
+        "Twist your torso only from the ribs up."
+    ],
+    "images": [
+        "Russiantwist-I0-1.gif",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "Freeweights",
+    "notes": "example notes",
+    "alternatives": [
+        "Side lying crunches",
+        "Side planks"
+    ],
+    "instructions": [
+        {
+            "instruction": "Sit on the floor and flex your knees and hips to a 90 degree angle.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Your feet should be hovering off the ground. (If that's too hard start with heels on the floor)",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Rotate your upper spine to engage your obliques.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

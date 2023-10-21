@@ -1,0 +1,68 @@
+{
+    "name": "Kettlebell Skull Crusher",
+    "description": "A skull crusher, also known as a lying triceps extension, is an isolation exercise focused on your triceps muscles",
+    "muscleGroup": [
+        "Triceps",
+        "example muscle group 2"
+    ],
+    "equipment": [
+        "Kettlebell or dumbbell",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Keep feet flat on the floor.",
+        
+    ],
+    "images": [
+        "Skullcrushers-I0-1",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "Advanced",
+    "type": "Freeweights",
+    "notes": "example notes",
+    "alternatives": [
+        "Straight bar pushdown",
+        
+    ],
+    "instructions": [
+        {
+            "instruction": "Lie on your back with knees in the air and soles of your feet flat on the floor. Hold the kettlebell in both hands directly above your chest.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Keeping your upper arms in place, bend your elbows to slowly bring the kettlebell in front of your forehead.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Return to the starting position and repeat.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "example name",
+    "description": "example description",
+    "muscleGroup": [
+        "example muscle group 1",
+        "example muscle group 2"
+    ],
+    "equipment": [
+        "example equipment 1",
+        "example equipment 2"
+    ],
+    "tips": [
+        "example tip 1",
+        "example tip 2"
+    ],
+    "images": [
+        "example image link 1",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "example difficulty",
+    "type": "example type",
+    "notes": "example notes",
+    "alternatives": [
+        "example alternative 1",
+        "example alternative 2"
+    ],
+    "instructions": [
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

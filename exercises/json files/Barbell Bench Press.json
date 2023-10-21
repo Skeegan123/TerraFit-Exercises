@@ -1,0 +1,68 @@
+{
+    "name": "Barbell Bench Press",
+    "description": "A bench press is an upper body exercise that involves lying on a bench and pressing weight upward using a barbell or dumbbells. The primary movers of the bench press are the pectoralis major, anterior deltoids, and the triceps",
+    "muscleGroup": [
+        "Pectorals",
+        "Triceps"
+    ],
+    "equipment": [
+        "Barbell",
+        "Bench"
+    ],
+    "tips": [
+        "Lift with confidence always! If you fail the rep, then you failed the rep. No big deal. Just keep it pushing and you'll get it at some point. ",
+        "Don't be hesitant to ask for a spot if you don't have a gym partner. Most people are happy to help. There's research showing that a lifter will perform better with a spotter."
+    ],
+    "images": [
+        "Barbellbenchpress-I0-1.gif",
+        "Barbellbenchpress-I0-2.jpeg"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "example type",
+    "notes": "example notes",
+    "alternatives": [
+        "Dumbbell incline bench press",
+        "Dumbell natural bench press"
+    ],
+    "instructions": [
+        {
+            "instruction": "Lay flat on the bench with your feet on the ground. With straight arms unrack the bar.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Lower the bar to your mid chest",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Raise the bar until you've locked your elbows.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

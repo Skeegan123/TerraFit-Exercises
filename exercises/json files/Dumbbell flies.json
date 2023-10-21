@@ -1,0 +1,69 @@
+{
+    "name": "Dumbbell rear felt fly",
+    "description": "
+The rear delt fly is a dumbbell exercise which involves sweeping the dumbbell out to the side to train the rear deltoids. ",
+    "muscleGroup": [
+        "Rear deltoids",
+        "Traps"
+    ],
+    "equipment": [
+        "Dumbbells",
+     
+    ],
+    "tips": [
+        "Be careful not to round your lower back.",
+        
+    ],
+    "images": [
+        "Reardeltflies-I0-1",
+        
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "Freeweights",
+    "notes": "example notes",
+    "alternatives": [
+        "Face pull",
+        "Incline dumbbell reverse fly"
+    ],
+    "instructions": [
+        {
+            "instruction": "With dumbbells in either hand, bend your knees with your feet slightly bowed out. Arch your back above your knees, and start with the weights touching in front of your chest.",
+            "description": "example description 1",
+            "images": [
+                "Reardeltflies.I0-1.gif",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "With bent elbows, raise your arms up to shoulder level, pausing at the at the end of the motion.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Slowly lower your arms back to starting position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

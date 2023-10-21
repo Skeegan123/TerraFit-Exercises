@@ -1,0 +1,69 @@
+{
+    "name": "Box jump",
+    "description": "A box jump is a plyometric exercise that involves jumping from the floor onto an elevated surface, such as a box.",
+    "muscleGroup": [
+        "Glutes",
+        "Grads"
+	"Hamstrings"
+    ],
+    "equipment": [
+        "Elevated platform",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Swing your arms to gather power",
+        "example tip 2"
+    ],
+    "images": [
+        "Box jump-I0-1.gif",
+        
+    ],
+    "video": "example video link",
+    "difficulty": "beginner",
+    "type": "body weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Squat jump",
+        "example alternative 2"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand in front of a box.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Sink into a quarter of half squat and then pop your hips forward.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+       {
+            "instruction": "Try to land in the middle of the box as softly as possible to minimize impact on your joints.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

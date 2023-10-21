@@ -1,0 +1,78 @@
+{
+    "name": "Forward lunges",
+    "description": "A forward lunge is a bodyweight exercise that works muscles throughout your lower body.",
+    "muscleGroup": [
+        "Quads",
+        "Glutes"
+    ],
+    "equipment": [
+        "None",
+       
+    ],
+    "tips": [
+        "You can either let your arms stay to your sides, you can place your hands on your hips (as you can see in our demo video) or you can use prayer hands.",
+        "Let your back knee gently tap the floor. Push off your front heel explosively to push yourself back into the starting position. "
+    ],
+    "images": [
+        "Forwardlunge-I0-1.gif",
+        "Forwardlunge-I0-2.gif"
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Body weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Side lunge",
+        
+    ],
+    "instructions": [
+        {
+            "instruction": "Step forward with one leg.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Lower your body until your rear knee nearly touches the ground.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Ensure you remain upright, and your front knee stay above the front foot.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}        {
+            "instruction": "Push off the floor with your front foot until you return to the starting position. Switch legs.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Dumbbell seated overhead press",
+    "description": "The dumbbell overhead press strengthens your upper body and helps to tone and slim down your arms, shoulders, and back. It targets muscles such as the trapezoid, the deltoids, and the triceps.",
+    "muscleGroup": [
+        "Trapezoids",
+        "Deltoids"
+    ],
+    "equipment": [
+        "Dumbbells",
+        "Bench"
+    ],
+    "tips": [
+        "Do not hyperextend or lockout your elbows as this is dangerous for those joints. The dumbbells should travel in an arc-like curve. ",
+        "There's no need to touch the dumbbells together at the top, but there's nothing wrong if they do."
+    ],
+    "images": [
+        "Dumbbelloverheadpress-I0-1",
+        "Dumbbelloverheadpress-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Free weights",
+    "notes": "example notes",
+    "alternatives": [
+        "Barbell overhead press",
+        "Cable overhead press"
+    ],
+    "instructions": [
+        {
+            "instruction": "Sit on a bench with back support. Raise the dumbbells to shoulder height with your palms forward.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Raise the dumbbells upwards and pause at the contracted position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Lower the weights back to starting position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

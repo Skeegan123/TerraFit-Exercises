@@ -1,0 +1,80 @@
+{
+    "name": "Barbell Deadlifts",
+    "description": "The deadlift involves many muscles, all of your limbs, and every load-bearing joint (ankles, knees, hips and shoulders) in your body. There are a lot of variables at play. So having hard-and-fast rules about deadlift form is nearly impossible.",
+    "muscleGroup": [
+        "Hamstring",
+        "Back"
+	"Glutes"
+    ],
+    "equipment": [
+        "Barbell",
+        "example equipment 2"
+    ],
+    "tips": [
+        "Keeping your core, arms, and lats engaged will help you avoid rounding your spine, which is dangerous. DO NOT ROUND YOUR SPINE.",
+        "During a conventional deadlift, if you are thinking about “pushing the floor away,” it will help you generate tension throughout your hips and knees."
+    ],
+    "images": [
+        "Barbelldeadlift-I0-1",
+        "Barbelldeadlift-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "advanced",
+    "type": "free weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Barbell Stiff Leg Deadlifts",
+        "Kettlebell deadlift (single)"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand with your mid-foot under the bar and grip the bar with your hands, about a shoulder width apart.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Bend your knees, then lift the bar by straightening your back. It is important to keep your back straight.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+  {
+            "instruction": "Stand to your full height and hold.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+  {
+            "instruction": "Lower the bar to the floor by bending your knees and keeping your back straight.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

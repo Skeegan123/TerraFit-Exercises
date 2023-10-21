@@ -1,0 +1,70 @@
+{
+    "name": "Calf raises",
+    "description": "A calf raise is a bodyweight exercise that targets the muscles in your lower legs. It's also known as a standing calf raise. 
+",
+    "muscleGroup": [
+        "Gastrocnemius",
+        "Soleus"
+    ],
+    "equipment": [
+        "None",
+        "example equipment 2"
+    ],
+    "tips": [
+        "You can do calf raises with one or both feet. You can also do them on a raised surface with the heel lower than the toes to allow a greater stretch on the working muscles. 
+",
+        
+    ],
+    "images": [
+        "Calfraise-I0-1",
+        
+    ],
+    "video": "example video link",
+    "difficulty": "Beginner",
+    "type": "Body weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Sitting calf raise",
+        "Single leg calf raise"
+    ],
+    "instructions": [
+        {
+            "instruction": "Balance on the balls of your feet on the platform or plates, leaning forward to use the wall to assist with balance.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Lower the heels of your feet towards the ground and pause, then push through the balls of your feet like you are standing tip toe, pausing at the apex of the motion.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Repeat as necessary.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

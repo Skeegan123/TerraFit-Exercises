@@ -1,0 +1,68 @@
+{
+    "name": "Pull ups",
+    "description": "A pull up is a challenging upper body exercise where you grip an overhead bar and lift your body until your chin is above that bar.",
+    "muscleGroup": [
+        "Lats",
+        
+    ],
+    "equipment": [
+        "Pull up bar",
+        
+    ],
+    "tips": [
+        "Grab the Pull Up bar with an overhand grip. If you get wrist pain from gripping a Pull Up bar, try using a thumbless grip.",
+        "Your palms should be making contact with the bar."
+    ],
+    "images": [
+        "Pullup-I0-1",
+        "Pullup-I0-2"
+    ],
+    "video": "example video link",
+    "difficulty": "example difficulty",
+    "type": "Body weight",
+    "notes": "Shorten the range of motion, and try to get a longer range of motion overtime. if you can only do half a Pull Up (meaning you can get your elbows to roughly 90°) don't be ashamed to do those half reps",
+    "alternatives": [
+        "Chin ups",
+        "Assisted pull ups"
+    ],
+    "instructions": [
+        {
+            "instruction": "Grasp the bar with an overhand grip, arms and shoulders fully extended.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Pull your body up until your chin is above the bar.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
+        {
+            "instruction": "Lower your body back to starting position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}
