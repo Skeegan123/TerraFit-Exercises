@@ -1,0 +1,54 @@
+{
+    "name": "Bicycle crunches",
+    "description": "The bicycle crunch is an effective ab exercise, working not only the upper ab muscles, but also the deep abs and the obliques, or the ab muscles found on the sides of your torso.",
+    "muscleGroup": [
+        "core",
+        "obliques"
+    ],
+    "equipment": [
+        "none"
+    ],
+    "tips": [
+        "contract core",
+        "example tip 2"
+    ],
+    "images": [
+        "example image link 1",
+        "example image link 2"
+    ],
+    "video": "https://www.youtube.com/watch?v=Iwyvozckjak",
+    "difficulty": "beginner",
+    "type": "bodyweight",
+    "notes": "example notes",
+    "alternatives": [
+        "sit-ups", "high knees", "plank movements"
+    ],
+    "instructions": [
+        {
+            "instruction": "Lie flat on an exercise mat with your face up, your legs straight, your feet on the floor, and your head and shoulders slightly raised off the mat.",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Place both of your hands on the back of your head without interlocking your fingers. Slightly tuck your pelvis and bring your ribcage down. Engage your core. Your spine and pelvis should be in a neutral position. Your chin should remain tucked throughout the movement as if you were holding an egg under your chin.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

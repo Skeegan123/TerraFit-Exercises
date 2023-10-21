@@ -1,0 +1,67 @@
+{
+    "name": "Seated cable row",
+    "description": "a type of strength training exercise that works back and upper arms",
+    "muscleGroup": [
+        "latissimus dorsi (middle back)",
+        "rhomboids (between shoulder blades)",
+        "trapezius (neck, shoulders, and upper back)",
+        "biceps brachii (front of upper arm)"
+    ],
+    "equipment": [
+        "cable"
+    ],
+    "tips": [
+        "example tip 1",
+        "example tip 2"
+    ],
+    "images": [
+        "overheadtricepextension-I0-1.mp4",
+        "example image link 2"
+    ],
+    "video": "seatedcablerow-I1-1.mp4",
+    "difficulty": "Intermediate",
+    "type": "free weights",
+    "notes": "example notes",
+    "alternatives": [
+        "Cable rope overhead tricep extension",
+        "Barbell laying tricep extensions"
+    ],
+    "instructions": [
+        {
+            "instruction": "Sit upright on the bench and plant your feet on the floor or foot pads, knees bent. Extend your arms and hold the handle or cable. Move your shoulders back and down. Brace your core.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Exhale. Bend your elbows to pull the handle or cable, keeping your elbows tucked in and your back neutral. Pause for 1 second.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        },
+        {
+            "instruction": "Inhale and slowly extend your arms",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

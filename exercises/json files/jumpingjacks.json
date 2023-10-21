@@ -1,0 +1,57 @@
+{
+    "name": "Jumping Jacks",
+    "description": "The benefits of jumping jacks include weight loss as this exercise helps burn fat in the abdomen, belly region, arms and legs",
+    "muscleGroup": [
+        "glutes",
+        "quadriceps",
+        "hip flexors",
+        "calves"
+    ],
+    "equipment": [
+        "none"
+    ],
+    "tips": [
+        "example tip 1",
+        "example tip 2"
+    ],
+    "images": [
+        "example image link 1",
+        "example image link 2"
+    ],
+    "video": "https://www.youtube.com/watch?v=nGaXj3kkmrU",
+    "difficulty": "begineer",
+    "type": "bodyweight",
+    "notes": "example notes",
+    "alternatives": [
+        "high knees"
+    ],
+    "instructions": [
+        {
+            "instruction": "Stand straight with your feet together and hands by your sides. Jump up, spread your feet and bring both hands together above your head Jump again and return to the starting position.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

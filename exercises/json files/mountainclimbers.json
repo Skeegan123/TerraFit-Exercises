@@ -1,0 +1,54 @@
+{
+    "name": "Mountain Climbers",
+    "description": "example description",
+    "muscleGroup": [
+        "Abs"
+    ],
+    "equipment": [
+        "None"
+    ],
+    "tips": [
+        "Keep your back straight and core tight",
+        "example tip 2"
+    ],
+    "images": [
+        "example image link 1",
+        "example image link 2"
+    ],
+    "video": "mountainclimbers-I0-1.mp4",
+    "difficulty": "Intermediate",
+    "type": "machine weights",
+    "notes": "example notes",
+    "alternatives": [
+        "None"
+    ],
+    "instructions": [
+        {
+            "instruction": "start in a plank position with your hands placed directly under your shoulders. Bring knees towards chest, keeping your foot close to your hand. Quickly switch legs and do the same",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Overhead Tricep Extension",
+    "description": "example description",
+    "muscleGroup": [
+        "chest",
+        "triceps"
+    ],
+    "equipment": [
+        "dumbbell"
+    ],
+    "tips": [
+        "Keep your elbows in while you lower the weight behind your head, your upper arms stationary.",
+        "example tip 2"
+    ],
+    "images": [
+        "overheadtricepextension-I0-1.mp4",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "free weights",
+    "notes": "example notes",
+    "alternatives": [
+        "Cable rope overhead tricep extension",
+        "Barbell laying tricep extensions"
+    ],
+    "instructions": [
+        {
+            "instruction": "Sit on the bench and hold a dumbbell with both hands. Raise the dumbbell overhead at arms length, holding the weight up with the palms of your hands.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "example instruction 1",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        }
+    ]
+}

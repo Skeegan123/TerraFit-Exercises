@@ -1,0 +1,67 @@
+{
+    "name": "Burpees",
+    "description": "A burpee is essentially a two-part exercise: a pushup followed by a leap in the air. Doing several burpees in a row can be tiring, but this versatile exercise may be worth the payoff, especially if you're looking for a way to build strength and endurance, while burning calories, and boosting your cardio fitness.",
+    "muscleGroup": [
+        "chest",
+        "triceps",
+    "abs",
+    "thighs"
+    ],
+    "equipment": [
+        "None"
+    ],
+    "tips": [
+        "Keep your elbows in while you lower the weight behind your head, your upper arms stationary.",
+        "example tip 2"
+    ],
+    "images": [
+        "burpee-I2-1.mp4",
+        "example image link 2"
+    ],
+    "video": "example video link",
+    "difficulty": "Intermediate",
+    "type": "bodyweight",
+    "notes": "example notes",
+    "alternatives": [
+         "boss ball burpee"
+    ],
+    "instructions": [
+        {
+            "instruction": "Start standing with your feet hip-width apart. Lower your body into a squat position, placing your hands on the ground in front of you.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "Quickly jump your feet back into a plank position, keeping your body in a straight line from your head to your toes.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        },
+        {
+            "instruction": "Jump your feet back towards your hands, and then jump up into the air, reaching your arms overhead and repeat.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        },
+        
+    ]
+}

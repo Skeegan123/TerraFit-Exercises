@@ -1,0 +1,64 @@
+{
+    "name": "Lat pulldown",
+    "description": "The lat pull down machine is used to target the latissimus dorsi muscle (i.e. your back). It is typically performed seated, facing towards the machine, where you pull a long bar attached to the cable, towards your chest, and then slowly extend your arms back to starting position.",
+    "muscleGroup": [
+        "Lats",
+        "Back"
+    ],
+    "equipment": [
+        "Cable lat handle"
+    ],
+    "tips": [
+        "Keep your elbows in while you lower the weight behind your head, your upper arms stationary.",
+        "example tip 2"
+    ],
+    "images": [
+        "example image link 1",
+        "example image link 2"
+    ],
+    "video": "https://www.youtube.com/watch?v=wo_gGRjVrrw&t=1s",
+    "difficulty": "Beginner",
+    "type": "Cable weight",
+    "notes": "example notes",
+    "alternatives": [
+        "Machine pulldown"
+    ],
+    "instructions": [
+        {
+            "instruction": "Grip the bar with the palms facing forward, your hands need to be spaced out at a distance wider than shoulder width.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": [
+                {
+                    "instruction": "example sub instruction 1",
+                    "description": "example sub description 1"
+                },
+                {
+                    "instruction": "example sub instruction 2",
+                    "description": "example sub description 2"
+                }
+            ]
+        },
+        {
+            "instruction": "As you have both arms extended in front of you holding the bar, bring your torso back around 30 degrees while sticking your chest out.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        },
+        {
+            "instruction": "Pull the bar down to about chin level or a little lower in a smooth movement whilst squeezing the shoulder blades together. Slowly raise back up and repeat.",
+            "description": "example description 1",
+            "images": [
+                "example image link 1",
+                "example image link 2"
+            ],
+            "subInstructions": []
+        },
+    ]
+}
